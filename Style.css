@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    font-family:  Haettenschweiler;
+    font-weight: bolder;
+}
+#App {
+    background-color: aquamarine;
+}
+
+#Game{
+    background-color: azure;
+}
+
+#Bot{
+    background-color: blanchedalmond;
+}
+.line{
+    margin: 8px auto;
+    background-color: blue;
+    height: 8px;
+    width: 70px;
+
+}
